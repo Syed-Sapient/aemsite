@@ -1,0 +1,43 @@
+[
+  {
+    "id": "page",
+    "components": [
+      "hero",
+      "cards",
+      "columns",
+      "fragment",
+      "text",
+      "image",
+      "button",
+      "section"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "hero",
+      "cards",
+      "columns",
+      "fragment",
+      "text",
+      "image",
+      "button"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "text",
+      "image",
+      "button"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": [
+      "text",
+      "image",
+      "button"
+    ]
+  }
+]
